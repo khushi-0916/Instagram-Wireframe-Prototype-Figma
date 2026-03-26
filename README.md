@@ -1,33 +1,43 @@
-# Instagram Wireframe & Prototype — Figma
+📱 Instagram Wireframe Prototype (Figma)
+🧾 About the Project
 
-A UI/UX wireframe and interactive prototype project 
-recreating core Instagram screens, built using Figma.
+This is a beginner-level UI/UX project where I created a wireframe and interactive prototype of the Instagram mobile app using Figma.
 
-## 🔗 Links
-| Type | Link |
-|------|------|
-| 🎨 Wireframe | (https://www.figma.com/design/LesyNpLlrOp2Xd8XwoP2Wb/sample-wireframing-of-instagram?node-id=0-1&t=mAHjqbE8FyVQDm3k-1) |
-| ▶️ Prototype | (https://www.figma.com/proto/LesyNpLlrOp2Xd8XwoP2Wb/sample-wireframing-of-instagram?node-id=1-29&p=f&t=mqusM5BZPc1gmKtk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A29) |
+The goal was to practice wireframing, layout design, and prototyping skills, and to understand how real-world apps structure navigation and screens.
 
-## 📱 Screens Covered
-- Home Feed
-- Messages / DMs
-- Reels Tab
-- Friends Reel Liked Section
-- Profile Page
-- Tagged Section
-- Create Section
-- Search *(Work in Progress)*
+🎯 What I Focused On
+Understanding app layout and screen structure
+Creating multiple connected screens
+Building a simple interactive prototype
+Practicing wireframing instead of full visual design
+🧩 Screens Included
+Home Feed
+Search / Explore
+Create Post
+Activity / Notifications
+User Profile
+🔄 Prototype & Wireframe Links
+Wireframe: Figma Wireframe
+Interactive Prototype: Figma Prototype
+🛠 Tools Used
+Figma (Wireframing & Prototyping)
+🎨 Inspiration
 
-## 🛠 Tools Used
-- Figma
+I learned wireframing and prototyping skills from Aliena Cai, which inspired me to create this project.
 
-## ✨ Highlights
-- Interactive prototype with tap interactions
-- Organised layer naming throughout
-- Realistic content and UI elements
+All screens and the prototype are my own work, applying the techniques I learned from her.
 
-## ⚠️ Status
-Work in Progress — actively being developed.
-Some screens are incomplete or pending refinement.
+💭 Notes & Learnings
+Maintaining consistent spacing and alignment is harder than it looks
+Structuring content clearly improves usability
+Prototyping helps understand user flows and navigation
+Wireframing first allows focus on layout before visual design
+🚀 Future Improvements
+Add more interaction details to the prototype
+Strengthen visual hierarchy
+Explore additional features beyond standard Instagram flow
+Conduct usability testing and iterate
+📌 Disclaimer
+
+This is a practice project inspired by Instagram and is not affiliated with or endorsed by Instagram.
 
