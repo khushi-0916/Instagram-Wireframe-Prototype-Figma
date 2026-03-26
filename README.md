@@ -1,43 +1,89 @@
-📱 Instagram Wireframe Prototype (Figma)
-🧾 About the Project
+# 📱 Instagram Wireframe & Prototype — Figma
 
-This is a beginner-level UI/UX project where I created a wireframe and interactive prototype of the Instagram mobile app using Figma.
+> A beginner UI/UX practice project — wireframing and prototyping 
+> the Instagram mobile app using Figma.
 
-The goal was to practice wireframing, layout design, and prototyping skills, and to understand how real-world apps structure navigation and screens.
+---
 
-🎯 What I Focused On
-Understanding app layout and screen structure
-Creating multiple connected screens
-Building a simple interactive prototype
-Practicing wireframing instead of full visual design
-🧩 Screens Included
-Home Feed
-Search / Explore
-Create Post
-Activity / Notifications
-User Profile
-🔄 Prototype & Wireframe Links
-Wireframe: Figma Wireframe
-Interactive Prototype: Figma Prototype
-🛠 Tools Used
-Figma (Wireframing & Prototyping)
-🎨 Inspiration
+## 🔗 Links
 
-I learned wireframing and prototyping skills from Aliena Cai, which inspired me to create this project.
+| Type | Link |
+|------|------|
+| 🎨 Wireframe | (https://www.figma.com/design/LesyNpLlrOp2Xd8XwoP2Wb/sample-wireframing-of-instagram?node-id=0-1&t=mAHjqbE8FyVQDm3k-1) |
+| ▶️ Prototype | (https://www.figma.com/proto/LesyNpLlrOp2Xd8XwoP2Wb/sample-wireframing-of-instagram?node-id=1-29&p=f&t=5Yqbz5fM8szxPJas-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A29) |
 
-All screens and the prototype are my own work, applying the techniques I learned from her.
+---
 
-💭 Notes & Learnings
-Maintaining consistent spacing and alignment is harder than it looks
-Structuring content clearly improves usability
-Prototyping helps understand user flows and navigation
-Wireframing first allows focus on layout before visual design
-🚀 Future Improvements
-Add more interaction details to the prototype
-Strengthen visual hierarchy
-Explore additional features beyond standard Instagram flow
-Conduct usability testing and iterate
-📌 Disclaimer
+## 🧾 About
 
-This is a practice project inspired by Instagram and is not affiliated with or endorsed by Instagram.
+This project was built to practice **wireframing**, **layout design**, and **prototyping** skills using Figma — by recreating core screens of the Instagram mobile app.
+
+The focus was on understanding how real-world apps structure navigation, screens, and user flows — rather than visual design.
+
+---
+
+## 🧩 Screens Covered
+
+| Screen | Status |
+|--------|--------|
+| 🏠 Home Feed | ✅ Complete |
+| 💬 Messages / DMs | ✅ Complete |
+| 🎬 Reels Tab | ✅ Complete |
+| 👤 Profile Page | ✅ Complete |
+| 🏷️ Tagged Section | ✅ Complete |
+| ➕ Create Section | ✅ Complete |
+| 🔍 Search / Explore | ⚠️ Work in Progress |
+
+---
+
+## 🎯 What I Focused On
+
+- Understanding app layout and screen structure
+- Creating multiple connected screens with navigation
+- Building an interactive prototype with tap interactions
+- Organised layer naming throughout
+- Practising wireframing before visual design
+
+---
+
+## 💭 Key Learnings
+
+- Consistent spacing and alignment is harder than it looks
+- Clear content structure directly improves usability
+- Prototyping helps visualise user flows and navigation
+- Wireframing first allows focus on layout over aesthetics
+
+---
+
+## 🚀 Future Improvements
+
+- Complete the Search / Explore screen
+- Add more detailed interactions to the prototype
+- Strengthen visual hierarchy across screens
+- Explore features beyond standard Instagram flow
+- Conduct usability testing and iterate
+
+---
+
+## 🛠 Tools Used
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🎨 Inspiration & Credits
+
+Wireframing and prototyping techniques learned from **Aliena Cai**.
+All screens and prototype are my own original work.
+
+---
+
+## 📌 Disclaimer
+
+This is a personal practice project inspired by Instagram.
+Not affiliated with or endorsed by Meta / Instagram.
+
+---
+
+*⚠️ This project is a Work in Progress — actively being improved.*
 
