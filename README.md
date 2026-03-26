@@ -6,8 +6,8 @@ recreating core Instagram screens, built using Figma.
 ## 🔗 Links
 | Type | Link |
 |------|------|
-| 🎨 Wireframe | [Interact with Wireframe][(https://www.figma.com/design/LesyNpLlrOp2Xd8XwoP2Wb/sample-wireframing-of-instagram?node-id=0-1&t=mAHjqbE8FyVQDm3k-1)] |
-| ▶️ Prototype | [Interact with Prototype]([https://www.figma.com/design/LesyNpLlrOp2Xd8XwoP2Wb/sample-wireframing-of-instagram?node-id=0-1&t=mAHjqbE8FyVQDm3k-1) |
+| 🎨 Wireframe | ([Interact with Wireframe][(https://www.figma.com/design/LesyNpLlrOp2Xd8XwoP2Wb/sample-wireframing-of-instagram?node-id=0-1&t=mAHjqbE8FyVQDm3k-1)] |
+| ▶️ Prototype | [Interact with Prototype]([https://www.figma.com/design/LesyNpLlrOp2Xd8XwoP2Wb/sample-wireframing-of-instagram?node-id=0-1&t=mAHjqbE8FyVQDm3k-1)) |
 
 ## 📱 Screens Covered
 - Home Feed
